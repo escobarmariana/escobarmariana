@@ -1,4 +1,4 @@
-# [Tu Nombre Completo]
+# [Mariana Escobar Londoño]
 **Estudiante de Ingeniería de Sonido & Desarrolladora**
 ✉️ mariana.escobar261@tau.usbmed.edu.co | 📱 +57 3046289217 | 💻 [GitHub](https://github.com/escobarmariana)
 
