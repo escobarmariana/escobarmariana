@@ -23,5 +23,5 @@ Estudiante de pregrado radicada en Medellín, apasionada por la intersección en
 * **Conceptos Aplicados:** Procesamiento digital de señales, cinemática de proyectiles, desarrollo Front-End.
 
 
-### Certicaciones
+## Certicaciones
 * **Nivel Inglés C:** Certificado por APTIS
