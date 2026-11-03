@@ -14,7 +14,14 @@ Estudiante de pregrado radicada en Medellín, apasionada por la intersección en
 * **Áreas de enfoque:** Física, Cálculo Integral, Álgebra Lineal, Programación. 
 * Elaboración y estructuración de documentación académica y reportes técnicos utilizando **LaTeX**.
 
+### Bachiller acadmémico
+*Colegio Calasanz Campestre | 2025*
+
 ## 🛠 Habilidades Técnicas
 * **Lenguajes:** Python, JavaScript, HTML5, CSS (Grid/Flexbox)
 * **Entornos y Herramientas:** VS Code, Git, LaTeX, bases de datos locales (AMPPS/phpMyAdmin)
 * **Conceptos Aplicados:** Procesamiento digital de señales, cinemática de proyectiles, desarrollo Front-End.
+
+
+### Certicaciones
+* **Nivel Inglés C:** Certificado por APTIS
